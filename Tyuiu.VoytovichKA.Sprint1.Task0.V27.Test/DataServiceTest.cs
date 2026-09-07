@@ -1,14 +1,18 @@
-using Tyuiu.VoytovichKA.Sprint1.Task0.V27.Lib;
+﻿using Tyuiu.VoytovichKA.Sprint1.Task0.V27.Lib;
+
 namespace Tyuiu.VoytovichKA.Sprint1.Task0.V27.Test
 {
-    public class DataServiceTest
+    [TestClass]
+    public sealed class DataServiceTest
     {
-        [Fact]
+        [TestMethod]
         public void ValidExpression()
         {
             DataService ds = new DataService();
             var res = ds.Calculate();
-            Assert.Equal(22, res);
+            Assert.AreEqual(22, res);
         }
     }
 }
+
+
