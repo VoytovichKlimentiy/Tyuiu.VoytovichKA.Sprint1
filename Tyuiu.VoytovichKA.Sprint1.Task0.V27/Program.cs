@@ -8,7 +8,7 @@ namespace Tyuiu.VoytovichKA.Sprint1.Task0.V27
         static void Main(string[] args)
         {
             DataService ds = new DataService();
-            Console.Title = "Спринт #0 | Выполнил: Войтович К.А. | НТм-25-1";
+            Console.Title = "Спринт #1 | Выполнил: Войтович К.А. | НТм-25-1";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #1                                                               *");
             Console.WriteLine("* Тема: Создание итогового решения по спринту                             *");
