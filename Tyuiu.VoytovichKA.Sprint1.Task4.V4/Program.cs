@@ -11,8 +11,8 @@ namespace Tyuiu.VoytovichKA.Sprint1.Task4.V4
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #1                                                               *");
             Console.WriteLine("* Тема: Операторы составного присаивания                                  *");
-            Console.WriteLine("* Задание #3                                                              *");
-            Console.WriteLine("* Вариант #9                                                              *");
+            Console.WriteLine("* Задание #4                                                              *");
+            Console.WriteLine("* Вариант #4                                                              *");
             Console.WriteLine("* Выполнил: Войтович Климентий Антонович | НТм-25-1                       *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
