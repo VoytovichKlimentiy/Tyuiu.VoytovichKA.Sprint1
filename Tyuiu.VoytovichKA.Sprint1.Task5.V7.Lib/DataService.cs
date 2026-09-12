@@ -5,7 +5,7 @@ namespace Tyuiu.VoytovichKA.Sprint1.Task5.V7.Lib
     {
         public int AngleToHoursMinutes(double f)
         {
-            return Convert.ToInt16(f / 30);
+            return Convert.ToInt16(Math.Truncate(f / 30));
         }
     }
 }
